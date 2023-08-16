@@ -1,4 +1,4 @@
-# namer_vscode
+# namer flutter app
 
 A new Flutter project.
 
